@@ -37,3 +37,5 @@ else
     Console.WriteLine();
     Console.WriteLine("Digite uma operação válida!");
 }
+
+Console.ReadLine();
